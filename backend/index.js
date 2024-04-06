@@ -14,7 +14,7 @@ app.use(cors());
 
 
 // Database connection && connect to your database here 
-mongoose.connect("")
+mongoose.connect("") // enter your mongodb url here
 
 
 
